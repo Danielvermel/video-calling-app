@@ -43,8 +43,6 @@ const App = () => {
             <Options>
                 <Notifications />
             </Options>
-            {/* Video Player */}
-            {/* Options -> Notifications */}
         </div>
     )
 }
